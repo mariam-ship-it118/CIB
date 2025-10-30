@@ -1,0 +1,19 @@
+:root{
+    --font:#FFFFFF;
+    --fill:#1858A8;
+
+}
+
+
+.niva{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    margin-left: 10%;
+    padding: 1%;
+    color:var(--font) ;
+    background-color:var(--fill) ;
+}
+li{
+    list-style-type: none;
+}
