@@ -5,6 +5,11 @@
 }
 
 
+.fullmenu{
+    width: 100%;
+    background-color: #1858A8;
+}
+
 .niva{
     display: flex;
     justify-content: space-between;

@@ -12,15 +12,19 @@ const MenuTap = () => {
 
 
         <>
-        
+        <div className='shaddow'>
+
      <div className='divide'>
-        <p>Apply Online</p>
-        <p>News</p>
-        <p>Blog Articles</p>
-        <p>CIB International</p>
-        <p>Sustainable Finance</p>
-        <p>Awards</p>
+        <Navie title='Apply Online' />
+        <Navie title='News' />
+        <Navie title='Blog Articles' />
+        <Navie title='CIB International' />
+        <Navie title='Sustainable Finance' />
+        <Navie title='Awards' />
      </div>
+
+             </div>
+
         </>
      );
 }

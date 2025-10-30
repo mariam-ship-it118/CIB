@@ -9,7 +9,7 @@ const Heading = () => {
 <>
 
 
-  <img src={Landing} alt="" />
+  <img src={Landing} alt="" className='fully' />
 
  <div className='ml'>
 

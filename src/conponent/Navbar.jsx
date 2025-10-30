@@ -9,7 +9,8 @@ const Star = (props) => {
 
         <>
        
-
+<div className='fullmenu'>
+ 
              <div className='niva'>
        
         <img src={Logo} alt="" />
@@ -23,7 +24,8 @@ const Star = (props) => {
         <Navie title="Others" />
        
         </div>
-        
+            
+</div>
         </>
      );
 }

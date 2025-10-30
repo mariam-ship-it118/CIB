@@ -10,6 +10,11 @@ p{
     font-size: 1.5vw;
 }
 
+.fully{
+    width: 100%;
+}
+
+
 .ml{
     margin-left: 5%;
 }
