@@ -1,0 +1,23 @@
+.linklink{
+    color: #fff;
+    font-size: 0.9vw;
+    
+}
+
+.dex{
+    margin: 4%;
+}
+
+.mrgnl{
+    margin-left: 3%;
+}
+
+.loopa{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.mr{
+    margin-left: 2%;
+}

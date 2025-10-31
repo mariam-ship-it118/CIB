@@ -1,0 +1,20 @@
+.dispos{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    margin-left: 10%;
+}
+
+.pady{
+    padding-left: 5%;
+}
+
+.imgsize{
+    width: 50% ;
+}
+
+.atext{
+    text-align: center;
+    margin: 0;
+    margin-top: 5%;
+}

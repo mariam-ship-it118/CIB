@@ -1,0 +1,34 @@
+.stone{
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+    margin-left: 5%;
+    align-items: center;
+
+
+}
+
+.two{
+    display: flex;
+    align-items: flex-start;
+    
+}
+.blockaa{
+    display: block;
+    text-align: left;
+    padding-left: 2%;
+}
+
+
+.bolblue{
+  color: #1858A8;
+  font-weight: 600;
+}
+
+.justtext{
+    font-size: 0.9vw;
+}
+
+.olaf{
+   margin-left: 6%;
+}

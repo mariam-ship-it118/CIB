@@ -1,0 +1,14 @@
+.yal{
+     background-image: url(../assets/footerbg.svg);
+    background-repeat: no-repeat;
+   background-size: 100%;
+    margin-top: 5%;
+}
+
+.savour{
+     object-fit: fill;
+       display: flex;
+       width: 90%;
+    justify-content: space-between;
+  margin-left: 3%;
+}

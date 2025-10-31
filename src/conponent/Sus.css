@@ -1,0 +1,13 @@
+.deep{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 80%;
+    margin-left: 10%;
+}
+
+
+.omg{
+    width: 100%;
+}
+

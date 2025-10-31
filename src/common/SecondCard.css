@@ -1,0 +1,13 @@
+.divaya{
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+   
+}
+
+.discos{
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+    margin-left: 5%;
+}

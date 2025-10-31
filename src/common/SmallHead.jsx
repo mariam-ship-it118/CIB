@@ -10,7 +10,7 @@ const Smallt = (props) => {
 <h4 className='smallhead'>{props.shead}</h4>
 
 </>
-
+      
      );
 }
  

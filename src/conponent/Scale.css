@@ -1,0 +1,27 @@
+.bluebag{
+    background-image: url(../assets/bluebgimg.svg);
+}
+
+.popup{
+    background-color: #fff;
+    padding: 3%;
+    width: 40%;
+   border-top: 5px solid #F58420;
+   border-radius: 16px;
+   z-index: 3;
+   margin-left: 5%;
+   
+}
+
+
+.solo{
+    font-weight: 500;
+}
+
+.loco{
+    font-size: 0.8vw;
+}
+
+.sectionne{
+    height: 100px;
+}
